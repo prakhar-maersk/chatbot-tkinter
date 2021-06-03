@@ -1,31 +1,4 @@
-﻿Module is defined as a file containing a set of functions you want to include in your application.
-
-To create a module just save the code you want in a file with the file extension dot py.
-
-abc module in python provides the infrastructure for defining abstract base classes ABCs in Python 
-it contain one or more abstract methods 
-An abstract method is a method that is declared but contains no implementation
-Abstract classes may not be instantiated and require subclasses to provide implementations for the abstract methods. 
-
-aifc module provides support for reading and writing AIFF and AIFF-C files AIFF is Audio Interchange File Format for storing digital audio samples in a file
-AIFF-C is a newer version of the format that includes the ability to compress the audio data.
-
-argparse module makes it easy to write user-friendly command-line interfaces
-The argparse module also automatically generates help and usage messages and issues errors when users give the program invalid arguments.
-
-Django module is a high-level Python Web framework that encourages rapid development and clean, pragmatic design. Built by experienced developers, it takes care of much of the hassle of Web development, so you can focus on writing your app without needing to reinvent the wheel. It’s free and open source. 
-
-array module defines an object type which can compactly represent an array of basic values- characters, integers, floating point numbers
-Arrays are sequence types and behave very much like lists, except that the type of objects stored in them is constrained.
-
-ast module helps Python applications to process trees of the Python abstract syntax grammar
-The abstract syntax itself might change with each Python release this module helps to find out programmatically what the current grammar looks like. 
-
-asynchat module builds on the asyncore infrastructure, simplifying asynchronous clients and servers 
-and making it easier to handle protocols whose elements are terminated by arbitrary strings, or are of variable length.
-
-asyncio module is used as a foundation for multiple Python asynchronous frameworks that provide high-performance network 
-and web-servers, database connection libraries, distributed task queues, etc.
+﻿
 
 The atexit module defines functions to register and unregister cleanup functions and Functions thus registered are automatically executed upon normal interpreter termination.
 
